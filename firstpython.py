@@ -9,3 +9,5 @@ for c in range(0, 5):
 for d in range(0, 23):
     a += d
     print(a)
+
+b = 23
